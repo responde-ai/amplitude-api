@@ -6,8 +6,8 @@ require_relative 'amplitude_api/identification'
 
 # AmplitudeAPI
 class AmplitudeAPI
-  TRACK_URI_STRING = 'https://api.amplitude.com/httpapi'.freeze
-  IDENTIFY_URI_STRING = 'https://api.amplitude.com/identify'.freeze
+  TRACK_URI_STRING = 'https://api2.amplitude.com/httpapi'.freeze
+  IDENTIFY_URI_STRING = 'https://api2.amplitude.com/identify'.freeze
 
   USER_WITH_NO_ACCOUNT = "user who doesn't have an account".freeze
 
